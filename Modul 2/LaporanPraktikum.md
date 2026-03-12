@@ -38,7 +38,7 @@ func main() {
 
 #### Output
 
-![Screenshot Output Unguided 1\_1](output/output-soal1.png)
+![Screenshot Output Unguided 1\_1](https://github.com/ferdyandhestafirmansyah-boop/109082500109_Ferdyan-Dhesta-Firmansyah/blob/main/Modul%202/Output/output-soal1.png)
 
 #### Penjelasan
 
@@ -78,7 +78,7 @@ func main() {
 
 #### Output
 
-![Screenshot Output Unguided 1\_1](output/output-soal2.png)
+![Screenshot Output Unguided 1\_1](https://github.com/ferdyandhestafirmansyah-boop/109082500109_Ferdyan-Dhesta-Firmansyah/blob/main/Modul%202/Output/output-soal2.png)
 
 #### Penjelasan
 jadi code diatas untuk memeriksa 5 percobaan memiliki urutan warna yang sama yaitu merah kuning hijau ungu,saat semua sesuai → true dan saat ada yang berbeda → false.
@@ -131,7 +131,7 @@ func main() {
 
 #### Output
 
-![Screenshot Output Unguided 1\_1](output/output-soal3.png)
+![Screenshot Output Unguided 1\_1](https://github.com/ferdyandhestafirmansyah-boop/109082500109_Ferdyan-Dhesta-Firmansyah/blob/main/Modul%202/Output/output-soal3.png)
 
 #### Penjelasan
 Program ini digunakan untuk menghitung biaya pengiriman parsel berdasarkan berat dalam gram. Pertama, pengguna memasukkan berat parsel, lalu program mengubahnya menjadi kilogram dan sisa gram. Biaya dihitung Rp 10.000 per kg. Untuk sisa gram, jika ≥ 500 gram dikenakan Rp 5 per gram, dan jika < 500 gram dikenakan Rp 15 per gram. Namun jika berat total lebih dari 10 kg, maka biaya sisa gram digratiskan. Terakhir program menampilkan detail berat, detail biaya, dan total biaya pengiriman.
