@@ -7,7 +7,7 @@
 masukan data yang sesuai sebanyak yang diminta program. Perhatikan keluaran yang
 diperoleh. Coba terangkan apa sebenarnya yang dilakukan program tersebut?
 
-#### soal1.go
+#### [soal1.go]
 
 ```go
 package main
@@ -32,6 +32,7 @@ func main() {
 	tiga = temp
 	fmt.Println("Output akhir = " + satu + " " + dua + " " + tiga)
 }
+```
 
 ## Output Unguided :
 
@@ -49,7 +50,9 @@ sebanyak 5 kali percobaan. Kemudian program akan menampilkan true apabila urutan
 warna sesuai dengan informasi yang diberikan pada paragraf sebelumnya, dan false
 untuk urutan warna lainnya.
 
-#### soal2.go
+#### [soal2.go]
+
+```go
 
 package main
 import "fmt"
@@ -69,6 +72,7 @@ func main() {
 
 	fmt.Println("BERHASIL:", berhasil)
 }
+```
 
 ## Output Unguided :
 
@@ -86,8 +90,8 @@ gram, maka tambahan biaya kirim hanya Rp. 5,- per gram saja. Tetapi jika kurang 
 gram, maka tambahan biaya akan dibebankan sebesar Rp. 15,- per gram. Sisa berat (yang
 kurang dari 1kg) digratiskan biayanya apabila total berat ternyata lebih dari 10kg.
 
-#### soal3.go
-
+#### [soal3.go]
+```go
 package main
 import "fmt"
 
@@ -121,6 +125,7 @@ func main() {
 	fmt.Println("Detail biaya: Rp.", biayaKg, "+ Rp.", biayaSisa)
 	fmt.Println("Total biaya: Rp.", total)
 }
+```
 
 ## Output Unguided :
 
