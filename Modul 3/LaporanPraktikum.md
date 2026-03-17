@@ -50,7 +50,7 @@ func main() {
 
 #### Output
 
-![Screenshot Output Unguided 1\_1](https://github.com/ferdyandhestafirmansyah-boop/109082500109_Ferdyan-Dhesta-Firmansyah/blob/main/Modul%202/Output/output-soal1.png)
+![Screenshot Output Unguided 1\_1](https://github.com/ferdyandhestafirmansyah-boop/109082500109_Ferdyan-Dhesta-Firmansyah/blob/main/Modul%203/Output/output-soal1.png)
 
 #### Penjelasan
 
@@ -98,7 +98,7 @@ func main() {
 
 #### Output
 
-![Screenshot Output Unguided 1\_1](https://github.com/ferdyandhestafirmansyah-boop/109082500109_Ferdyan-Dhesta-Firmansyah/blob/main/Modul%202/Output/output-soal2.png)
+![Screenshot Output Unguided 1\_1](https://github.com/ferdyandhestafirmansyah-boop/109082500109_Ferdyan-Dhesta-Firmansyah/blob/main/Modul%203/Output/output-soal2.png)
 
 #### Penjelasan
 Jadi program ini menggunakan tiga fungsi yaitu f(x), g(x), dan h(x), dan membaca tiga input a, b, dan c, program menghitung fungsi.Baris pertama menghitung f(g(h(a)))/Baris kedua menghitung g(h(f(b))).Baris ketiga menghitung h(f(g(c)))
@@ -157,7 +157,7 @@ func main() {
 
 #### Output
 
-![Screenshot Output Unguided 1\_1](https://github.com/ferdyandhestafirmansyah-boop/109082500109_Ferdyan-Dhesta-Firmansyah/blob/main/Modul%202/Output/output-soal3.png)
+![Screenshot Output Unguided 1\_1](https://github.com/ferdyandhestafirmansyah-boop/109082500109_Ferdyan-Dhesta-Firmansyah/blob/main/Modul%203/Output/output-soal3.png)
 
 #### Penjelasan
 Jadi program ini digunakan untuk mengecek sebuah titik (x, y) berada di dalam atau di luar dua lingkaran.program membaca input titik pusat dan jarak dari dua lingkaran, lalu membaca titik yang ingin diperiksa.Kemudian, program menghitung jarak antara titik tersebut dengan pusat lingkaran. Dari situ dicek apakah jaraknya lebih kecil atau sama,titik tersebut berada di dalam lingkaran.
