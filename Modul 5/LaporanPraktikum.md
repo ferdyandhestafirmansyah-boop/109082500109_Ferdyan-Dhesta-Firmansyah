@@ -39,7 +39,7 @@ func main() {
 
 #### Output
 
-![Screenshot Output Unguided 1\_1](https://github.com/ferdyandhestafirmansyah-boop/109082500109_Ferdyan-Dhesta-Firmansyah/blob/main/Modul%203/Output/output-soal1.png)
+![Screenshot Output Unguided 1\_1](https://github.com/ferdyandhestafirmansyah-boop/109082500109_Ferdyan-Dhesta-Firmansyah/blob/main/Modul%205/Output/output-soal1.png)
 
 #### Penjelasan
 
@@ -81,7 +81,7 @@ func main() {
 
 #### Output
 
-![Screenshot Output Unguided 1\_1](https://github.com/ferdyandhestafirmansyah-boop/109082500109_Ferdyan-Dhesta-Firmansyah/blob/main/Modul%203/Output/output-soal2.png)
+![Screenshot Output Unguided 1\_1](https://github.com/ferdyandhestafirmansyah-boop/109082500109_Ferdyan-Dhesta-Firmansyah/blob/main/Modul%205/Output/output-soal2.png)
 
 #### Penjelasan
 Jadi program ini membaca 1 angka yaitu N, program mencetak simbol bintang menggunakan perulangan, dijadikan teknik penundaan cetak untuk membalik urutan agar bintang terbentuk dari kecil ke besar. Kemudian fungsi cetakPola untuk menampilkan barisan bintang tersebut ke layar.
@@ -117,7 +117,7 @@ func main() {
 
 #### Output
 
-![Screenshot Output Unguided 1\_1](https://github.com/ferdyandhestafirmansyah-boop/109082500109_Ferdyan-Dhesta-Firmansyah/blob/main/Modul%203/Output/output-soal3.png)
+![Screenshot Output Unguided 1\_1](https://github.com/ferdyandhestafirmansyah-boop/109082500109_Ferdyan-Dhesta-Firmansyah/blob/main/Modul%205/Output/output-soal3.png)
 
 #### Penjelasan
 Jadi program ini membaca 1 angka yaitu N, program mencari angka pembagi yang pas menggunakan sisa bagi (modulo), dijadikan teknik penundaan agar hasil pembaginya bisa dicetak urut dari yang terkecil hingga terbesar. Kemudian fungsi cetakFaktor untuk mengecek dan mencetak angka apa saja yang berhasil membagi N.

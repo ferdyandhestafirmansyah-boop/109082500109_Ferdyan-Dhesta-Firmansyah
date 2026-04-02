@@ -62,7 +62,7 @@ func main() {
 
 #### Output
 
-![Screenshot Output Unguided 1\_1](https://github.com/ferdyandhestafirmansyah-boop/109082500109_Ferdyan-Dhesta-Firmansyah/blob/main/Modul%203/Output/output-soal1.png)
+![Screenshot Output Unguided 1\_1](https://github.com/ferdyandhestafirmansyah-boop/109082500109_Ferdyan-Dhesta-Firmansyah/blob/main/Modul%204/Output/output-soal1.png)
 
 #### Penjelasan
 
@@ -146,7 +146,7 @@ func main() {
 
 #### Output
 
-![Screenshot Output Unguided 1\_1](https://github.com/ferdyandhestafirmansyah-boop/109082500109_Ferdyan-Dhesta-Firmansyah/blob/main/Modul%203/Output/output-soal2.png)
+![Screenshot Output Unguided 1\_1](https://github.com/ferdyandhestafirmansyah-boop/109082500109_Ferdyan-Dhesta-Firmansyah/blob/main/Modul%204/Output/output-soal2.png)
 
 #### Penjelasan
 Program ini membaca nama peserta satu per satu sampai bertemu kata "Selesai".Untuk setiap peserta, program membaca 8 angka waktu. Jika angkanya di bawah 301, itu dihitung sebagai soal benar dan waktunya dijumlahkan.Program membandingkan semuanya: siapa yang soal benarnya paling banyak akan menjadi pemenang dan dicetak di akhir.
