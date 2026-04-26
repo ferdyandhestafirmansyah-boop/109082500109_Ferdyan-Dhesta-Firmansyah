@@ -62,7 +62,7 @@ func main() {
 
 #### Output
 
-![Screenshot Output Unguided 1\_1](https://github.com/ferdyandhestafirmansyah-boop/109082500109_Ferdyan-Dhesta-Firmansyah/blob/main/Modul%205/Output/output-soal1.png)
+![Screenshot Output Unguided 1\_1](https://github.com/ferdyandhestafirmansyah-boop/109082500109_Ferdyan-Dhesta-Firmansyah/blob/main/Modul%209/Output/ouput-soal1.png)
 
 ####Penjelasan
 
@@ -191,7 +191,7 @@ func main() {
 
 #### Output
 
-![Screenshot Output Unguided 1\_1](https://github.com/ferdyandhestafirmansyah-boop/109082500109_Ferdyan-Dhesta-Firmansyah/blob/main/Modul%205/Output/output-soal2.png)
+![Screenshot Output Unguided 1\_1](https://github.com/ferdyandhestafirmansyah-boop/109082500109_Ferdyan-Dhesta-Firmansyah/blob/main/Modul%209/Output/output-soal2.png)
 
 #### Penjelasan
 Jadi program ini membaca ukuran array sejumlah n dan mengisi array tersebut dengan input nilai dari pengguna. Program kemudian menampilkan berbagai informasi secara berurutan keseluruhan isi array, nilai pada indeks ganjil, elemen pada indeks genap, serta elemen pada indeks kelipatan bilangan x yang diinputkan. program meminta input indeks tertentu, lalu menghapus indeks dengan cara menggeser sisa nilai di sebelah kanannya ke kiri dan menampilkan kembali isi array yang baru.  program menghitung dan menampilkan nilai rata-rata, standar deviasi dan terakhir menghitung frekuensi atau seberapa banyak kemunculan suatu bilangan tertentu yang dicari oleh pengguna di dalam array tersebut.
@@ -258,7 +258,7 @@ func main() {
 
 #### Output
 
-![Screenshot Output Unguided 1\_1](https://github.com/ferdyandhestafirmansyah-boop/109082500109_Ferdyan-Dhesta-Firmansyah/blob/main/Modul%205/Output/output-soal3.png)
+![Screenshot Output Unguided 1\_1](https://github.com/ferdyandhestafirmansyah-boop/109082500109_Ferdyan-Dhesta-Firmansyah/blob/main/Modul%209/Output/output-soal3.png)
 
 #### Penjelasan
 Jadi program ini membaca nama dua buah klub bola yang bertanding. program akan terus-menerus meminta input skor hasil pertandingan dari pengguna secara berulang. Di dalam perulangan tersebut, program membandingkan skor untuk menentukan siapa pemenangnya dan menyimpan nama pemenang tersebut ke dalam sebuah array statis.input skor ini akan terus berjalan dan baru akan terhenti apabila salah satu atau kedua skor yang dimasukkan bernilai negatif.lalu proses input selesai, program akan menampilkan kembali daftar seluruh hasil pertandingan di dalam array tersebut.
@@ -341,7 +341,7 @@ func main() {
 
 #### Output
 
-![Screenshot Output Unguided 1\_1](https://github.com/ferdyandhestafirmansyah-boop/109082500109_Ferdyan-Dhesta-Firmansyah/blob/main/Modul%205/Output/output-soal3.png)
+![Screenshot Output Unguided 1\_1](https://github.com/ferdyandhestafirmansyah-boop/109082500109_Ferdyan-Dhesta-Firmansyah/blob/main/Modul%209/Output/output-soal4.png)
 
 #### Penjelasan
 Jadi program ini membaca karakter yang dimasukkan oleh pengguna satu per satu ke dalam sebuah array hingga pengguna mengetikkan tanda titik (.). Setelah array terisi, program akan membuat salinan dari array tersebut dan membalikkan urutan isinya untuk ditampilkan ke layar.program menggunakan sebuah fungsi untuk mengecek apakah kumpulan karakter tersebut membentuk palindrom dengan cara membandingkan isi array asli dengan array salinan yang sudah dibalik. Hasil akhir dari pengecekan tersebut akan ditampilkan ke layar dalam bentuk nilai boolean.
