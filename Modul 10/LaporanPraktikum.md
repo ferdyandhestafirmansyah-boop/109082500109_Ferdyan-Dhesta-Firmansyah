@@ -59,7 +59,7 @@ func main() {
 
 #### Output
 
-![Screenshot Output Unguided 1\_1](https://github.com/ferdyandhestafirmansyah-boop/109082500109_Ferdyan-Dhesta-Firmansyah/blob/main/Modul%205/Output/output-soal1.png)
+![Screenshot Output Unguided 1\_1](https://github.com/ferdyandhestafirmansyah-boop/109082500109_Ferdyan-Dhesta-Firmansyah/blob/main/Modul%2010/Output/output-soal1.png)
 
 #### Penjelasan
 
@@ -134,7 +134,7 @@ func main() {
 
 #### Output
 
-![Screenshot Output Unguided 1\_1](https://github.com/ferdyandhestafirmansyah-boop/109082500109_Ferdyan-Dhesta-Firmansyah/blob/main/Modul%205/Output/output-soal2.png)
+![Screenshot Output Unguided 1\_1](https://github.com/ferdyandhestafirmansyah-boop/109082500109_Ferdyan-Dhesta-Firmansyah/blob/main/Modul%2010/Output/output-soal2.png)
 
 #### Penjelasan
 Jadi program ini terdiri dari dua baris, yang mana baris pertama terdiri dari dua bilangan bulat x dan
@@ -204,7 +204,7 @@ func main() {
 
 #### Output
 
-![Screenshot Output Unguided 1\_1](https://github.com/ferdyandhestafirmansyah-boop/109082500109_Ferdyan-Dhesta-Firmansyah/blob/main/Modul%205/Output/output-soal3.png)
+![Screenshot Output Unguided 1\_1](https://github.com/ferdyandhestafirmansyah-boop/109082500109_Ferdyan-Dhesta-Firmansyah/blob/main/Modul%2010/Output/output-soal3.png)
 
 #### Penjelasan
 Jadi program ini menyimpan deretan input berat balita ke dalam array. program mencari berat minimum dan maksimum sekaligus menggunakan pointer pada prosedur, menghitung nilai rata-ratanya menggunakan fungsi, lalu mencetak ketiga hasil tersebut.
