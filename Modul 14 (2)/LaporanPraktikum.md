@@ -77,7 +77,7 @@ func main() {
 
 #### Output
 
-![Screenshot Output Unguided 1\_1](https://github.com/ferdyandhestafirmansyah-boop/109082500109_Ferdyan-Dhesta-Firmansyah/blob/main/Modul%2014/Output/output-soal1.png)
+![Screenshot Output Unguided 1\_1](https://github.com/ferdyandhestafirmansyah-boop/109082500109_Ferdyan-Dhesta-Firmansyah/blob/main/Modul%2014%20(2)/Output/Output-soal1.png)
 
 #### Penjelasan
 Jadi program ini program yang digunakan untuk membaca data integer seperti contoh yang
@@ -230,7 +230,7 @@ func main() {
 
 #### Output
 
-![Screenshot Output Unguided 1\_1](https://github.com/ferdyandhestafirmansyah-boop/109082500109_Ferdyan-Dhesta-Firmansyah/blob/main/Modul%2014/Output/output-soal2.png)
+![Screenshot Output Unguided 1\_1](https://github.com/ferdyandhestafirmansyah-boop/109082500109_Ferdyan-Dhesta-Firmansyah/blob/main/Modul%2014%20(2)/Output/Output-soal2.png)
 
 #### Penjelasan
 program ini digunakan untuk Baris pertama adalah bilangan bulat N yang
